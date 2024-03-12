@@ -14,9 +14,3 @@ In this project, I continued to learn about IP addresses while practicing manipu
 
 * **2. Port listening on localhost**
   * [100-port_listening_on_localhost](./100-port_listening_on_localhost): Bash script that listens on port `98` on `localhost`.
-
-
-## Author :black_nib:
-
--
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) |

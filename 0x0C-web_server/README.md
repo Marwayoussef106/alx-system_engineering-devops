@@ -65,8 +65,3 @@ The server is accessible at [bdbnb.site](http://bdbnb.site).
     of the remote server.
   * `clean`
     * Deletes the archive `holbertonwebapp.tar.gz` in the local directory.
-
-## Author :black_nib:
-
--
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) |

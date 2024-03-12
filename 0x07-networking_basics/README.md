@@ -61,8 +61,3 @@ This project was the first of two introducing networking concepts. In this proje
 * **5. Is the host on the network**
   * [5-is_the_host_on_the_network](./5-is_the_host_on_the_network): Bash script that pings an IP address received as an argument 5 times.
   * Usage: `5-is_the_host_on_the_network {IP_ADDRESS}`.
-
-## Author :black_nib:
-
--
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) |

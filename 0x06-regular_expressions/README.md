@@ -39,8 +39,3 @@ _Note: Each Ruby script in the project matches regular expressions based on an a
     * `[FLAGS]` is the flags that were used.
 
 
-## Author :black_nib:
-
--
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) |
-
