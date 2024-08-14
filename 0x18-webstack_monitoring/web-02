@@ -1,0 +1,10 @@
+erver-01 login
+
+# Start the ssh-agent
+eval "$(ssh-agent)"
+
+# Add your private key to the ssh-agent
+ssh-add ~/.ssh/school
+
+# SSH into the server
+ssh ubuntu@54.208.173.202
